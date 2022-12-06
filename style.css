@@ -1,0 +1,13 @@
+body::before{
+    display: block;
+    content:'';
+    height: 60px;
+}
+/* üstteki blokta, ana sayfa butonuna tıklandığında fixlenmiş nav barın görselin üzerine çıkmaması için kodumuzu yazdım.*/
+
+
+@media(min-width: 768px){
+    .news-input{
+        width: 50%;
+    }
+}
