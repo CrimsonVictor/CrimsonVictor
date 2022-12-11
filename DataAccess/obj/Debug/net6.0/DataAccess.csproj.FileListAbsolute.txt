@@ -1,0 +1,49 @@
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\yunus.aydin\Desktop\MyFinalProject\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\yunus.aydin\Desktop\MyFinalProject\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\yunus.aydin\Desktop\MyFinalProject\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\yunus.aydin\Desktop\MyFinalProject\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\yunus.aydin\Desktop\MyFinalProject\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\yunus.aydin\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\yunus.aydin\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus.aydin\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\yunus.aydin\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\yunus.aydin\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\yunus.aydin\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\yunus.aydin\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\yunus.aydin\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\yunus.aydin\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\yunus.aydin\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\yunus.aydin\Desktop\MyFinalProject\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\yunus.aydin\Desktop\MyFinalProject\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\Monster\Desktop\MyFinalProject\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Monster\Desktop\MyFinalProject\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Monster\Desktop\MyFinalProject\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Monster\Desktop\MyFinalProject\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\Monster\Desktop\MyFinalProject\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\Monster\Desktop\MyFinalProject\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\Monster\Desktop\MyFinalProject\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\Monster\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Monster\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Monster\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Monster\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Monster\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Monster\Desktop\MyFinalProject\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

@@ -1,0 +1,42 @@
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Monster\Desktop\C# KODLAMALARIM\C#-Trainings\MyFinalProject\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\yunus.aydin\Desktop\MyFinalProject\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\yunus.aydin\Desktop\MyFinalProject\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\yunus.aydin\Desktop\MyFinalProject\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\yunus.aydin\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\yunus.aydin\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus.aydin\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\yunus.aydin\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\yunus.aydin\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\yunus.aydin\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\yunus.aydin\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\yunus.aydin\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\yunus.aydin\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\yunus.aydin\Desktop\MyFinalProject\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\yunus.aydin\Desktop\MyFinalProject\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\yunus.aydin\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\Monster\Desktop\MyFinalProject\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Monster\Desktop\MyFinalProject\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Monster\Desktop\MyFinalProject\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Monster\Desktop\MyFinalProject\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\Monster\Desktop\MyFinalProject\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\Monster\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Monster\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\Monster\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Monster\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Monster\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Monster\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\ref\Entities.dll
